@@ -1,0 +1,11 @@
+.layout-container {
+  margin: 15px;
+  padding: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  .layout-container {
+    margin: 6px;
+    padding: 15px;
+  }
+}

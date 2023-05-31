@@ -1,0 +1,11 @@
+.header-container {
+  background-color: #cbd5e1;
+  height: 120px;
+  text-align: center;
+  padding: 10px;
+}
+
+.header-heading {
+  font-family: 'roboto';
+  color: #475569;
+}

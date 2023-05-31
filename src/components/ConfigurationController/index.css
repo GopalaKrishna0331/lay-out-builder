@@ -1,0 +1,28 @@
+.control-container {
+  background-color: #475569;
+  height: 35vh;
+  padding-top: 10px;
+  padding-left: 80px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+.control-head {
+  font-size: 32px;
+}
+
+.label-element {
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 17px;
+}
+
+label {
+  margin-left: 8px;
+}
+
+@media screen and (max-width: 767px) {
+  .control-container {
+    padding-left: 28px;
+  }
+}
